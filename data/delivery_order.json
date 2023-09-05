@@ -1,0 +1,18 @@
+[
+    {
+        "sales_order_id": "OMS1000005677",
+        "airwaybill_number": "",
+        "marketplace_code": "mico",
+        "sent_at": null,
+        "scheduled_date": "2021-07-26T10:26:37Z",
+        "date_done": "2021-07-27T04:27:04Z",
+        "delivery_number": "WBMBT/OUT/00191",
+        "do_status": "done",
+        "delivery_lines": [
+            {
+                "product_id": "29VC240A16",
+                "order_quantity": 1
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+{
+  "require": {
+    "php": ">=8.2",
+    "google/cloud-pubsub": "^1.31",
+    "laravel/framework": "^8.68",
+    "fakerphp/faker": "^1.16",
+    "php-amqplib/php-amqplib": "^3.5",
+    "ext-json": "*",
+    "symfony/dotenv": "^6.3"
+  },
+  "autoload": {
+    "files": ["helper.php"]
+  }
+}
